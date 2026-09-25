@@ -1,0 +1,17 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# LTspice / Simulation outputs (Add these if you don't want massive raw files)
+*.raw
+*.log
+*.fft
+*.op.raw
+
+# Backup files
+*.bak
+
+# Project Folders to Ignore
+Circuits/
+VLSI_PROJECT/
