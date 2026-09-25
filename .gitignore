@@ -15,3 +15,10 @@
 # Project Folders to Ignore
 Circuits/
 VLSI_PROJECT/
+
+# Large Documentation Files
+
+# Large Documentation Files
+
+# Large Documentation File
+*.docx
