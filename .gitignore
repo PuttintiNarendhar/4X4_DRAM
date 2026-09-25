@@ -3,7 +3,7 @@
 .AppleDouble
 .LSOverride
 
-# LTspice / Simulation outputs (Add these if you don't want massive raw files)
+# LTspice / Simulation outputs
 *.raw
 *.log
 *.fft
@@ -12,13 +12,8 @@
 # Backup files
 *.bak
 
-# Project Folders to Ignore
-Circuits/
-VLSI_PROJECT/
-
 # Large Documentation Files
-
-# Large Documentation Files
-
-# Large Documentation File
 *.docx
+
+# Project Folders to Ignore (Wiped Circuits from here)
+VLSI_PROJECT/
